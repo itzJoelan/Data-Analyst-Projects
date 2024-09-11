@@ -8,9 +8,13 @@ Introduction: The Sales Dashboard serves as a vital resource for tracking and op
 
 
 Dashboard link; https://app.powerbi.com/links/qX1_ly8WkJ?ctid=efc6214b-5ada-48b0-95f5-422bc9bd4463&pbi_source=linkShare
+
+
 Sales Performance
 •  What are the total sales for the current month/year
+
 ![image](https://github.com/user-attachments/assets/749b7799-2a8a-4c79-b010-7f34f7233126)
+
 ![image](https://github.com/user-attachments/assets/1d46d365-0576-4b48-a834-74f85a8aa5f0)
 
 The total sales for the current month are $90.32 million and the total sales for the year so far are $223.64 million. 
