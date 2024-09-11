@@ -45,7 +45,7 @@ Over the last 12 months, sales have shown a general fluctuating trend rather tha
 
  
 The countries generating the most revenue are Mexico, United States, and Canada. 
-![image](https://github.com/user-attachments/assets/f5de0e30-b2e8-4fb1-8cbf-d9d1929f0b35)
+
 
 •  How do online sales compare to wholesale and dealership sales?
 
