@@ -7,7 +7,7 @@ Description: The BMW Sales Dashboard is a comprehensive tool designed to monitor
 Introduction: The Sales Dashboard serves as a vital resource for tracking and optimizing the sales process. It consolidates data from multiple sources to provide a unified view of sales performance, allowing business leaders to assess current sales figures, compare them with historical data, and understand the factors driving sales growth. The dashboard is structured to offer insights at various levels—from a broad overview of total sales down to the granular details of individual product performance. By leveraging this dashboard, sales teams can identify top-performing regions, products, and customer segments, ensuring that efforts are focused on the most lucrative opportunities.
 
 
-Dashboard link; https://app.powerbi.com/links/qX1_ly8WkJ?ctid=efc6214b-5ada-48b0-95f5-422bc9bd4463&pbi_source=linkShare
+
 
 
 Sales Performance
